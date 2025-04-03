@@ -6,3 +6,6 @@ Simple ESP32 based controller for basically any RC car (this one is used with th
 - Has an OLED I2C output to show the user in what mode the controller is in
 - Has a telemetry BLE stream
 - Supports drift and traction control (haven't tested TC as I couldn't get hall sensor onto wheels on this iteration of OpenRC)
+
+![Drive Controller](docs/drive_controller.jpg)
+![OpenRC car](docs/open_rc_without_paint.jpg)
